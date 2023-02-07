@@ -1,7 +1,7 @@
-# An 3 - Sem 1  
-advanced-frontend-project 
-React-typescript and firebase
--- course by Softbinator
+## An 3 - Sem 1  
+advanced-frontend-project  
+React-typescript and firebase  
+-- course by Softbinator  
 
 ## Barem:
 - Sa aiba mai multe rute  2p
